@@ -16,11 +16,11 @@ using System.Windows.Forms;
 //using Capa_Vista_Contabilidad;
 ////using Capa_Vista_Produccion;
 ////using Capa_Vista_Banco;
-//using Capa_Vista_CompraVenta;
+using Capa_Vista_CompraVenta;
 //using Capa_Vista_Carrera;
 
 
-using Capa_Vista_RRHH;
+//using Capa_Vista_RRHH;
 
 namespace Interfac_V3
 {
@@ -197,8 +197,8 @@ namespace Interfac_V3
             //frm_Promociones promociones = new frm_Promociones(UsuarioSesion.GetIdUsuario());
             // promociones.Show();
 
-            MDI_RRHH Recursos = new MDI_RRHH(UsuarioSesion.GetIdUsuario());
-            Recursos.Show();
+            //MDI_RRHH Recursos = new MDI_RRHH(UsuarioSesion.GetIdUsuario());
+           // Recursos.Show();
 
 
         }
@@ -244,8 +244,8 @@ namespace Interfac_V3
 
         private void Btn_Compras_Click(object sender, EventArgs e)
         {
-            /*Frm_MDI_general_CompraVenta Cv = new Frm_MDI_general_CompraVenta(UsuarioSesion.GetIdUsuario());
-            Cv.Show();*/
+            Frm_MDI_general_CompraVenta Cv = new Frm_MDI_general_CompraVenta(UsuarioSesion.GetIdUsuario());
+            Cv.Show();  
 
         }
 

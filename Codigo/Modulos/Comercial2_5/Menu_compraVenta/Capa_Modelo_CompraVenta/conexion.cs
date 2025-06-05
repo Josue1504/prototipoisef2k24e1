@@ -11,7 +11,7 @@ namespace Capa_Modelo_CompraVenta
     {
         public OdbcConnection conectar()
         {
-            OdbcConnection conectar = new OdbcConnection("Dsn=colchoneria");
+            OdbcConnection conectar = new OdbcConnection("Dsn=colchoneria1");
 
             try
             {
