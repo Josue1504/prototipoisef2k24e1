@@ -25,7 +25,12 @@ namespace Capa_Vista_CompraVenta
             navegador1.ObtenerIdAplicacion("3000");
             navegador1.ObtenerIdUsuario(idUsuario);
             navegador1.AsignarAyuda("1");
-            navegador1.AsignarNombreForm("Mantenimiento clientes");
+            navegador1.AsignarNombreForm("Mantenimiento Carreras");
+        }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
