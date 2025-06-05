@@ -1,0 +1,53 @@
+commit 917458cf004cc502e9d0b881f18d17474da5f8ed
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Thu Jun 5 09:44:22 2025 -0600
+
+    Ramacontenedor
+
+commit c72ca53bc0d2e06beb0855120ef9896c6bd0cd5a
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Wed May 21 21:55:07 2025 -0600
+
+    Cambios en comisiones y Alters
+
+commit 74572a94167835ef07892b3c2c84c2433cf4f749
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Fri May 16 20:31:53 2025 -0600
+
+    Cambios en carpeta de comisiones
+
+commit db2beb65c22928ea5a9a58b4457bbd8e1aec5a65
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Tue May 13 08:24:04 2025 -0600
+
+    Cambios en formulario comisiones y se agregó un alter
+
+commit 7b3d4c1069f2fc4b64b77a243744601362bfcc44
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Sun May 4 21:45:06 2025 -0600
+
+    Nuevas tablas creadas para el modulo de compra y venta
+
+commit 1f5e35274d93f35dd084a5988161bf1e7a782fcc
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Fri Apr 25 21:26:54 2025 -0600
+
+    Cambios realizados en formularios de pedidos y factura
+
+commit d4553ff2780bc845150b2384e67f3dc6ff95f4db
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Mon Mar 31 09:08:03 2025 -0600
+
+    Se integran carpetas al modulo de Compra y Ventas
+
+commit 5000027ea348465062b14da0ac3b20c9a46997d5
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Sun Mar 30 22:10:43 2025 -0600
+
+    Agregaron Cambios de carpeta y referencias al interfaz del modulo de Compra y Ventas
+
+commit e0df248057304ee563832799234bde7b70f31dcd
+Author: JOSUE DAVID PAZ GOMEZ <jpazg10@miumg.edu.gt>
+Date:   Sat Mar 8 13:12:38 2025 -0600
+
+    Se agregaron cambios de Formulario Tramite de Pasaporte
